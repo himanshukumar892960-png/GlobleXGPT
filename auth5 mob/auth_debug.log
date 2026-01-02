@@ -1,0 +1,225 @@
+2025-12-31 11:55:52,068 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:39:37,566 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 12:39:38,794 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 12:39:50,059 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:45:29,626 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:53:59,258 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 12:54:00,387 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 12:54:04,049 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:54:10,113 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:55:52,829 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 12:55:54,052 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 12:56:00,224 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:59:23,916 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 12:59:26,511 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:04:12,497 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:04:13,050 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 13:04:15,729 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:04:16,599 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:04:16,874 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:04:17,054 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:04:25,186 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:06:27,828 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:06:28,542 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 13:06:31,137 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:06:37,710 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:08:50,162 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:08:57,908 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:10:07,248 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:10:07,722 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 13:10:10,173 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:12:23,860 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:12:25,507 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:12:26,297 - __main__ - ERROR - SIGNUP ERROR: Database error saving new user
+2025-12-31 13:17:44,630 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:17:46,046 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 13:17:58,930 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:17:59,102 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:18:00,118 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:18:00,266 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:18:00,332 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:18:00,484 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:18:06,837 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:18:07,010 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:18:46,874 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 13:18:47,149 - __main__ - INFO - Login successful
+2025-12-31 13:40:08,180 - __main__ - INFO - Attempting login for: himanshukumar276129@gmail.com
+2025-12-31 13:40:08,348 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:41:56,036 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 13:41:56,547 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:41:57,569 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 13:41:57,720 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:41:57,770 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 13:41:57,924 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:41:57,982 - __main__ - INFO - Attempting login for: hkhimanshu9009@gmail.com
+2025-12-31 13:41:58,122 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:43:12,323 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 13:43:12,568 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:43:30,665 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 13:43:30,905 - __main__ - INFO - Login successful
+2025-12-31 13:57:15,001 - __main__ - INFO - Attempting login for: himanshukumar276129@gmail.com
+2025-12-31 13:57:15,163 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:57:46,505 - __main__ - INFO - Attempting login for: himanshukumar276129@gmail.com
+2025-12-31 13:57:46,699 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:57:47,528 - __main__ - INFO - Attempting login for: himanshukumar276129@gmail.com
+2025-12-31 13:57:47,699 - __main__ - ERROR - LOGIN ERROR: Email not confirmed
+2025-12-31 13:57:59,240 - __main__ - INFO - Attempting login for: himanshukumar276129@gmail.com
+2025-12-31 13:57:59,469 - __main__ - INFO - Login successful
+2025-12-31 14:01:15,768 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:01:15,976 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:01:35,150 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:01:35,296 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:01:37,333 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:01:37,481 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:01:37,535 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:01:37,674 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:01:44,631 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:01:44,820 - __main__ - INFO - Login successful
+2025-12-31 14:02:06,727 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:02:06,878 - __main__ - INFO - Login successful
+2025-12-31 14:02:30,855 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 14:02:31,019 - __main__ - INFO - Login successful
+2025-12-31 14:08:58,920 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:08:59,062 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:00,126 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:00,281 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:00,336 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:00,494 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:02,787 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:02,973 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:03,773 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:03,937 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:04,909 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:05,053 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:15,023 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:15,186 - __main__ - ERROR - LOGIN ERROR: Invalid login credentials
+2025-12-31 14:09:25,957 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:26,193 - __main__ - INFO - Login successful
+2025-12-31 14:09:55,662 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:09:55,838 - __main__ - INFO - Login successful
+2025-12-31 14:12:39,662 - __main__ - INFO - Attempting login for: testemail03126@gmail.com
+2025-12-31 14:12:39,993 - __main__ - INFO - Login successful
+2025-12-31 14:15:08,803 - __main__ - ERROR - UPDATE PROFILE ERROR: User not allowed
+2025-12-31 14:16:39,870 - __main__ - ERROR - UPDATE PROFILE ERROR: User not allowed
+2025-12-31 14:16:49,315 - __main__ - ERROR - UPDATE PROFILE ERROR: User not allowed
+2025-12-31 15:04:43,190 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 15:04:45,227 - __main__ - INFO - Login successful
+2025-12-31 15:05:52,665 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 15:05:52,972 - __main__ - INFO - Login successful
+2025-12-31 15:06:13,162 - __main__ - INFO - Attempting login for: himanshukumar892960@gmail.com
+2025-12-31 15:06:13,339 - __main__ - INFO - Login successful
+2025-12-31 15:06:22,014 - __main__ - ERROR - UPDATE PROFILE ERROR: User not allowed
+2025-12-31 15:06:34,671 - __main__ - ERROR - UPDATE PROFILE ERROR: User not allowed
+2025-12-31 15:08:36,692 - __main__ - ERROR - UPDATE PROFILE ERROR: This endpoint requires a valid Bearer token
+2025-12-31 15:33:20,207 - __main__ - ERROR - UPDATE PROFILE ERROR: This endpoint requires a valid Bearer token
+2026-01-01 15:49:50,950 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 15:49:54,893 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 16:10:22,044 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 16:10:22,045 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 16:10:26,953 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 16:10:26,954 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 16:20:48,997 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 16:20:48,999 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 16:20:49,000 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 16:30:37,168 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 16:30:37,169 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 16:30:37,169 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 16:30:40,638 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 16:30:40,640 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 16:30:40,641 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:13:24,715 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 17:13:24,722 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:13:24,723 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:19:44,632 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 17:19:44,632 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:19:44,633 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:23:13,977 - __main__ - INFO - Using OpenRouter AI: nex-agi/deepseek-v3.1-nex-n1:free
+2026-01-01 17:23:13,978 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:23:13,979 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:25:19,274 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:25:19,276 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:25:19,278 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:25:23,061 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:25:23,062 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:25:23,062 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:27:25,871 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:27:25,874 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:27:25,881 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:42:19,699 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:42:19,699 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:42:19,699 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:42:28,331 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:42:28,331 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:42:28,332 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:42:38,400 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:42:38,400 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:42:38,401 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 17:43:59,691 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 17:43:59,691 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 17:43:59,692 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:19:09,291 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 20:19:09,295 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 20:19:09,296 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:19:14,085 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 20:19:14,086 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 20:19:14,089 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:50:17,000 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 20:50:17,003 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 20:50:17,004 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:50:17,614 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 20:50:21,343 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 20:50:21,344 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 20:50:21,344 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:50:21,935 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 20:56:09,733 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 20:56:09,734 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 20:56:09,734 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:56:10,425 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 20:56:27,308 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 20:56:27,309 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 20:56:27,309 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 20:56:27,866 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:04:42,733 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:04:42,734 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:04:42,735 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:04:44,073 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:05:50,688 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:05:50,689 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:05:50,690 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:05:51,301 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:05:59,897 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:05:59,897 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:05:59,898 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:06:00,490 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:06:53,243 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:06:53,276 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:06:53,276 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:06:54,118 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:07:22,127 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:07:22,127 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:07:22,128 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:07:22,834 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:07:58,432 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:07:58,433 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:07:58,436 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:07:59,645 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:45:56,507 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:45:56,507 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:45:56,508 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:45:57,076 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:46:06,363 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:46:06,364 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:46:06,364 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:46:06,920 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-01 21:51:50,627 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-01 21:51:50,627 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-01 21:51:50,628 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-01 21:51:51,602 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-02 10:12:22,177 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-02 10:12:22,180 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-02 10:12:22,181 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-02 10:12:22,949 - __main__ - INFO - RunwayML Video AI enabled
+2026-01-02 10:12:26,980 - __main__ - INFO - Using OpenRouter AI: deepseek/deepseek-r1-0528:free
+2026-01-02 10:12:26,980 - __main__ - INFO - Image generation enabled with model: provider-4/imagen-4
+2026-01-02 10:12:26,981 - __main__ - INFO - Stability AI enabled with model: sd3-large-turbo
+2026-01-02 10:12:27,672 - __main__ - INFO - RunwayML Video AI enabled

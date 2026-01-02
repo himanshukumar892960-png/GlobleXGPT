@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+google-generativeai
+pyautogui
+opencv-python
+supabase
+requests
+runwayml
+google-api-python-client
